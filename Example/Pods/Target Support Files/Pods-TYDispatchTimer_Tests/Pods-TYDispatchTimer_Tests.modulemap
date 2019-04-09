@@ -1,0 +1,6 @@
+framework module Pods_TYDispatchTimer_Tests {
+  umbrella header "Pods-TYDispatchTimer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

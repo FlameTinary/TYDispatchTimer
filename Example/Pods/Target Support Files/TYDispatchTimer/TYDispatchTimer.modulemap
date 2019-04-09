@@ -1,0 +1,6 @@
+framework module TYDispatchTimer {
+  umbrella header "TYDispatchTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

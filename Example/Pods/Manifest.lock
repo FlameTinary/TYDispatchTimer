@@ -1,0 +1,16 @@
+PODS:
+  - TYDispatchTimer (0.1.0)
+
+DEPENDENCIES:
+  - TYDispatchTimer (from `../`)
+
+EXTERNAL SOURCES:
+  TYDispatchTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TYDispatchTimer: 3d1282067868099ccfd0a5fd10e1ea3f2272c893
+
+PODFILE CHECKSUM: d6c00e51ddab37db89e1bc08d1521353221e97eb
+
+COCOAPODS: 1.6.0
