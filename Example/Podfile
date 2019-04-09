@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TYDispatchTimer_Tests' do
+  pod 'TYDispatchTimer', :path => '../'
+  
+  
+end
