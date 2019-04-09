@@ -22,7 +22,7 @@ pod 'TYDispatchTimer'
 
 ## Author
 
-FlameTinary, 123828091@qq.com
+FlameTinary, tinarychina@gmail.com
 
 ## License
 
